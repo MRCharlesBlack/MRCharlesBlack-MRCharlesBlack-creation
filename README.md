@@ -1,2 +1,2 @@
-# https://mrcharlesblack.github.io/MRCharlesBlack-MRCharlesBlack-creation/
+# https://mrcharlesblack.github.io
 Creation MRCharlesBlack
